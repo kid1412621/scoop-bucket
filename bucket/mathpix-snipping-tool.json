@@ -14,5 +14,6 @@
     "innosetup":true,
     "autoupdate": {
         "url": "https://mathpix.com/win_app/mathpix_snipping_tool_setup.exe"
-    }
+    },
+    "depends": "innounp"
 }
