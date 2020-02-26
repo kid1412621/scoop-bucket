@@ -1,13 +1,13 @@
 {
     "homepage": "https://github.com/Molunerfinn/PicGo",
-    "description": "a tool of image hosting client",
+    "description": "A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder",
     "license": {
         "identifier": "996ICU",
         "url": "https://github.com/996icu/996.ICU/blob/master/LICENSE"
     },
-    "version": "2.2.1",
+    "version": "2.2.2",
     "url": "https://github.com/Molunerfinn/PicGo/releases/download/v2.2.2/PicGo-Setup-2.2.2.exe",
-    "hash": "22625c42976cf97c7d20dbf91786c5101d124c0327d29fc0078f2f15e53c1334",
+    "hash": "22625C42976CF97C7D20DBF91786C5101D124C0327D29FC0078F2F15E53C1334",
     "bin": "PicGo.exe",
     "shortcuts": [
         [
